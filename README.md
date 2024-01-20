@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="/path/to/ssss.gif" alt="Alt text" title="Optional title">
+![Alt Text](https://i.gifer.com/5YPk.gif)
 <br><br><br>
 <br><br><br>

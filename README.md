@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://i.gifer.com/5YPk.gif)
 
 <br><br><br>
 <br><br><br>

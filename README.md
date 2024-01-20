@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="https://raw.githubusercontent.com/CleoManabilang/Cleomanabilang/main/assets/ssss.gif" height="40" />
+<img src="/path/to/ssss.gif" alt="Alt text" title="Optional title">
 <br><br><br>
 <br><br><br>

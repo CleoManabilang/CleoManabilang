@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="https://raw.githubusercontent.com/CleoManabilang/Cleomanabilang/main/assets/[kyubey.gif](https://i.gifer.com/5YPk.gif)" height="40" />
+<img src="https://raw.githubusercontent.com/CleoManabilang/Cleomanabilang/main/assets/https://i.gifer.com/5YPk.gif" height="40" />
 <br><br><br>
 <br><br><br>

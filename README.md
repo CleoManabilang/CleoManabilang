@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width=50% height= 50% border-radius=50%;>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif"  border-radius=50%;>
 
 <br><br><br>
 <br><br><br>

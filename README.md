@@ -1,7 +1,7 @@
 <div align="center">
 <pre>
   - 👋 Hi, I’m @CleoManabilang
-- 👀 I’m interested in ... <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+- 👀 I’m interested in ... 
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" border-radius=50%;>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="70" height="70" border-radius=50%;>
 
 <br><br><br>
 <br><br><br>

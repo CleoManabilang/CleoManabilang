@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-<img src="https://i.pinimg.com/originals/c6/48/ba/c648ba805ee5eb70f36b728942627d26.gif">
+<img src="https://i.pinimg.com/originals/c6/48/ba/c648ba805ee5eb70f36b728942627d26.gif"  width: 120px;>
 
 <br><br><br>
 <br><br><br>

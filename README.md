@@ -1,10 +1,4 @@
 <div align="center">
-  <style>
-    img.animated-gif{
-  width: 10px;
-  height: auto;
-}
-  </style>
 <pre>
   - 👋 Hi, I’m @CleoManabilang
 - 👀 I’m interested in everything that can make me happy

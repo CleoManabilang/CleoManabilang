@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
   <style>
     img.animated-gif{
-  width: 120px;
+  width: 100px;
   height: auto;
 }
   </style>

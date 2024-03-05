@@ -12,10 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <br><br>
 <br><br>
-  <style>img.animated-gif{
-  width: 120px;
-  height: auto;
-}</style>
 <img src="https://i.pinimg.com/originals/c6/48/ba/c648ba805ee5eb70f36b728942627d26.gif" >
 
 <br><br><br>
